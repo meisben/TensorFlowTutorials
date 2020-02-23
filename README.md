@@ -1,5 +1,5 @@
 # TensorFlowTutorials
-A repository of tutorials that I have completed for tensorflow. From the tensor flow documentation (docs)
+A repository of tutorials that I have completed for tensorflow. From the tensor flow documentation (github repository 'tensorflow/docs')
 
 This repository is intended as a personal record.
 
