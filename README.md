@@ -5,6 +5,6 @@ This repository is intended as a personal record.
 
 # How to run these Tutorials
 
-Either using collabortory (online) 
+Either using google 'Colaboratory' environment (online environment in browser with access to gpu acceleration) 
 
 Or using tensorflow environment (e.g. using Anaconda)
