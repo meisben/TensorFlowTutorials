@@ -12,5 +12,6 @@ Or (prefered) using google 'Colaboratory' environment (online environment in bro
 *To view these jupyter notebooks in colabortory*
 - Open google colab: https://colab.research.google.com/
 - Append the url to the jupyter notebook (e.g. https://colab.research.google.com/github/meisben/docs/blob/master/bmcCompletedTutorials/tutorials/keras/basic_classification.ipynb)
+- Go edit -> notebook settings -> hardware acceleration -> select GPU
 
 
